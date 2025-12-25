@@ -1,5 +1,3 @@
-### End to End Nutritionist Generative AI Doctor Using Google Gemini and Streamlit
-
 🥗 Gemini Health Management App
 AI-Powered Calorie & Nutrition Analyzer Using Google Gemini + Streamlit
 
